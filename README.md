@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🏄‍♂️ Who Am I?
 
-<!--
-**Kamay821/Kamay821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I’m Kamay Abreu, a computer engineering student at UERJ. I’m prowling through code and sharpening my skills as I learn new technologies.
 
-Here are some ideas to get you started:
+## 🔍 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🕸️ Websites & Scripts: Crafted small websites and handy scripts to solve real problems.
+
+• 🎮 Game Structure Editing: Dived into established game codebases, tweaking and optimizing existing structures.
+
+• 🐋 Apprentice Status: Currently still learning the ropes, but hungry for more challenges and growth!
+
+## 🌱 Currently Learning
+
+• JavaScript & Python fundamentals
+
+• Git & GitHub workflows (commits, branches, pull requests!)
+
+• Front-end frameworks (React, Vue)
+
+• Back-end basics (Node.js, Express)
+
+## 📬 Dive In & Connect
+
+• Email: kamayabreu@gmail.com
+
+## 🦈 Shark Tank Highlights
