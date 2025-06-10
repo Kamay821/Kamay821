@@ -23,5 +23,3 @@
 ## 📬 Dive In & Connect
 
 • Email: kamayabreu@gmail.com
-
-## 🦈 Shark Tank Highlights
